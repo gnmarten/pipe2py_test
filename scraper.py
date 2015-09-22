@@ -72,11 +72,11 @@ def userPipesExport(uid):
 
 
 #Yahoo pipes user ID
-uid='SZHKUPNX6A6I2BXPKK7JWAAZXU'
+uid='UBSTX3NOBHKPSVPASLWCOZV6JE'
 
 userPipesExport(uid)
 
 pipeid='53813bf4f427986802da941cc4338b65'
 #examplePipeOutput(pipeid)
 
-#getPipesJSON('975789b47f17690a21e89b10a702bcbd','Hashtag tokeniser')
+#getPipesJSON('37cacaa2f7303a36af58dcfe6e4e4510','Hashtag tokeniser')
